@@ -5,11 +5,18 @@
   "description": "",
   "main": "",
   "scripts": {
-    // put your start/test/lint scripts here
+    "start": "./node_modules/.bin/browser-sync start --config \"bs-config.js\"",
+    "test": "./node_modules/.bin/karma start karma.conf.js",
+    "eslint": "./node_modules/.bin/eslint app/",
+    "postinstall": "npm run update-webdriver",
+    "update-webdriver": "node node_modules/protractor/bin/webdriver-manager update",
+    "start-webdriver": "node node_modules/protractor/bin/webdriver-manager start",
+    "stop-webdriver": "node node_modules/protractor/bin/webdriver-manager stop",
+    "protractor": "./node_modules/.bin/protractor e2e-tests/protractor.conf.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.corporate.t-mobile.com/scm/tmo/tmo-candidate-puzzles.git"
+    "url": "https://bitbucket.corporate.t-mobile.com/projects/TMO/repos/developer-puzzles.git"
   },
   "contributors": [],
   "license": "ISC",
