@@ -84,7 +84,7 @@ The stack should behave as below:
 
  | input | stack | notes |
  |-------|-------|-------|
- |  4    |  5.5  |    |
+ |  4    |  5.5  |       |
  |       |  4.25 |       |
  |       |  4    | This is the top of the stack |
 
@@ -99,7 +99,7 @@ The stack should behave as below:
 
  | input | stack | notes |
  |-------|-------|-------|
- |  -    | 11.5  | 5.5 - 17 == -11.5 : X is always on the bottom of the stack roll. |
+ |  -    | -11.5 | 5.5 - 17 == -11.5 : X is always on the bottom of the stack roll. |
  |       |       |       |
 
 
@@ -107,7 +107,7 @@ The stack should behave as below:
 
  | input | stack | notes |
  |-------|-------|-------|
- |   15  | 11.5  |       |
+ |   15  | -11.5 |       |
  |       | 15    |       |
 
 
@@ -115,7 +115,7 @@ The stack should behave as below:
 
  | input | stack | notes |
  |-------|-------|-------|
- |   20  | 11.5  |       |
+ |   20  | -11.5 |       |
  |       | 15    |       |
  |       | 20    |       |
 
