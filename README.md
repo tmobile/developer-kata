@@ -65,7 +65,7 @@ For an added challenge, and learning of preferred tools, try adding the followin
 - [Post-fix Calculator](docs/postfix-calculator.md)
 - [Integer Spiral](docs/integer-spiral.md)
 - [Game of Life](docs/game-of-life.md)
-- [Magic Square](docs/magic-square.md)
+- [Mystic Square](docs/mystic-square.md)
 
 
 -----

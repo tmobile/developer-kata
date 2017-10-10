@@ -1,4 +1,6 @@
-## Magic Square:
+## Mystic Square:
+
+    https://en.wikipedia.org/wiki/15_puzzle
 
    Given a sequence of integers from 0 to 15 in any order.
    The array of numbers will overlay a 4x4 matrix.
