@@ -12,7 +12,7 @@ thus no '=' sign is required to invoke the calculation.
 An Infix calculator places operators between operands X and Y
 eg.
 
-    input:  4.5 + 525 =
+    input:  4.5 + 5.25 =
     output: 9.75
 
 Problem:

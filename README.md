@@ -21,6 +21,20 @@ using karma/mocha/chai/sinon for unit tests and protractor/webdriver/cucumber fo
 
 Emphasis is on code quality, structure, design and most importantly - tests.
 
+## Language / Frameworks
+
+While these puzzles can be done in any language, for the TMNG project we want to see
+solutions in AngularJS, Angular+ and AEM(Java,OSGI,servlets, etc.)
+
+To start you should solve a puzzle with AngularJS 1.6 and ES5.  This is the basis of the TMNG project.
+For the AngularJS solution you will keep your build tools to a minimum.  
+No gulp, grunt or webpack.  Only npm 'scripts'.
+You can use the **seed** starter included in this repo.
+For an added challenge try to solve the puzzle without using the **seed**
+
+Once you have complete the solution, then re-solve using Angular+ (4,5,6...) with Typescript.  
+For the Angular+ solution you will use the angular-cli.
+
 
 ## Tools
 
@@ -37,7 +51,7 @@ Use the following tools for your solution and dev environment
 
 For an added challenge, and learning of preferred tools, try adding the following:
 
-- cucumber
+- cucumber (with protractor)
 - LESS (instead of SASS, Stylus or plain CSS)
 - material design (angular-material)
 
