@@ -63,6 +63,7 @@ For an added challenge, and learning of preferred tools, try adding the followin
 
 - [Check Writer](docs/english-check-writer.md)
 - [Post-fix Calculator](docs/postfix-calculator.md)
+- [Black Jack](docs/black-jack.md)
 - [Integer Spiral](docs/integer-spiral.md)
 - [Game of Life](docs/game-of-life.md)
 - [Mystic Square](docs/mystic-square.md)
