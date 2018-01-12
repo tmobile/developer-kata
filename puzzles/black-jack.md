@@ -50,28 +50,7 @@ Pay careful attention to project structure and code layout.
 Remember, while solving the puzzle is required the most important
 part of this is how you structure your code and the quality and completeness of your tests
 
-### Note:
 
-For AngularJS samples do not use a generator or pre-defined seed project.
-If you need a starter then use the 'seed' folder supplied in this project.
-
-For Angular+ samples use the angular-cli to generate your code scaffolding.
-
-
-
-### Bonus 1
-
-Create your own build env (package.json, karma.conf.js, protractor.js ...)
-
-
-### Bonus 2:
-
-Use angular-material as the ui framework, not twitter bootstrap.
-
-### Bonus 3:
-
-Show good UI design with animations
-
-### Bonus 4:
+### Bonus:
 
 Add ability to split a hand when dealt a pair in first 2 cards.
