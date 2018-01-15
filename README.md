@@ -20,15 +20,19 @@ When you are completed with the challenge simply send your reviewer a link to yo
 
 Each challenge is fairly simple to solve, although they get progressively more difficult near the bottom of the list.
 
+### Algorithms:
 
-- [Check Writer](puzzles/english-check-writer.md)
-- [Post-fix Calculator](puzzles/postfix-calculator.md)
-- [Black Jack](puzzles/black-jack.md)
-- [Integer Spiral](puzzles/integer-spiral.md)
-- [Game of Life](puzzles/game-of-life.md)
-- [Mystic Square](puzzles/mystic-square.md)
+- [Check Writer](puzzles/algorithms/english-check-writer.md)
+- [Post-fix Calculator](puzzles/algorithms/postfix-calculator.md)
+- [Black Jack](puzzles/algorithms/black-jack.md)
+- [Integer Spiral](puzzles/algorithms/integer-spiral.md)
+- [Game of Life](puzzles/algorithms/game-of-life.md)
+- [Mystic Square](puzzles/algorithms/mystic-square.md)
 
+### Web API:
 
+- [Weather](puzzles/web-api/weather-man.md)
+- [Stock Broker](puzzles/web-api/stock-broker.md
 
 # Tech Stack
 
