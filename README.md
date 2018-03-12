@@ -32,7 +32,7 @@ Each challenge is fairly simple to solve, although they get progressively more d
 ### Web API:
 
 - [Weather](puzzles/web-api/weather-man.md)
-- [Stock Broker](puzzles/web-api/stock-broker.md
+- [Stock Broker](puzzles/web-api/stock-broker.md)
 
 # Tech Stack
 
