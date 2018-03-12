@@ -135,7 +135,7 @@ _For an added challenge, and learning of preferred tools, try adding the followi
 - **SASS** (instead of plain CSS)
 - **material design** () *instead of twitter bootstrap*
     - [angular-material js](https://material.angularjs.org/latest/)
-    - [angualr material]*https://material.angular.io/)
+    - [angualr material](https://material.angular.io/)
     - 
 These are the libraries and tools that we use and that we are most interested in seeing you use.
 
