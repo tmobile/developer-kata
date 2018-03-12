@@ -9,22 +9,24 @@ Make sure you have read and understood the main [README](https://ssh///bitbucket
 For TMNG the foundational stack is
 
  - AngularJS (1.6.x)
+ - AEM (6.3.x)
  - ES5
- - AEM (6.1.x)
  - Java (8)
  - Sightly.
 
 We are upgrading to
 
 - Angular (6)
+- AEM 6.4
 - Typesecript (2.5+)
-- AEM 6.3
 - Java (8)
+- Sightly.
 
 
 For the short term we need developers to be comfortable in both sides of the upgrade
 
-- aem 6.1 vs 6.3
+- aem 6.1 vs 6.4
 - AngularJS 1.6 vs Angular 6
-- ES5 vs Typescript 2.5+
+- ES-5 vs Typescript 2.5+
 
+For new contractors coming onto the project we need deep knowledge of the former stack (AngularJS, AEM 6.3), hence all code submissions must be in this stack

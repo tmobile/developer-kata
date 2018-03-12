@@ -1,8 +1,15 @@
 # Developer Puzzle
 
+Make sure that you have completely read the [README](../../README.md) and the corresponding project notes:
+
+- [MyTmo](../../MyTmo.md)
+- [TMNG](../../TMNG.md)
+- [MPCS](../../MPCS.md)
+
+
 ## Weather Man
 
-Using public data APIs gather and display information about the weather for a specified location.
+Using public data APIs gather and display information about the weather for a user specified location.
 
 Collect user input for an address to gather historical weather data for.
 
@@ -17,8 +24,15 @@ Data to collect:
 * Daily Temp (Low, Hi)
 * Daily Precipitation
 
-Create a UI that allows the user to easily view and guess the weather and sunlight
-conditions for the next 2 months.
+Create a UI that allows the user to submit any address (street, city ,state/province, country ).
+The data returned should allow them to easily view and/or guess the weather and sunlight conditions for the next 2 months.
+
+### Note:
+
+You will be using 2 data APIs for this puzzle.
+
+1. Collect the GPS location of the address entered,
+1. Collect the weather data for the GPS coordinates
 
 ### Bonus:
 
