@@ -1,6 +1,6 @@
-# Developer Puzzles
+# Developer Kata
 
-Candidate puzzles are small coding challenges given to developers as either an entrance requirement or training and on-boarding.
+Developer Kata puzzles are small coding challenges given to developers as either an entrance requirement or training and on-boarding.
 
 We want to see how well developers write their code, and especially how they test their code.
 
